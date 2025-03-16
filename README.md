@@ -64,7 +64,13 @@ Delete a task
    ```
    ## to login as admin use the following credentials:
    ```
-   email: admin@admin.com
+   manager login
+   email: manager@account.com
    password: password
+
+   user login
+   email: manager@account.com
+   password: password
+
    ```
  
